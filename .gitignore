@@ -1,0 +1,7 @@
+# ignrar arquivos temporarios do Obsidian
+.trash/
+.obsidian/workspace*
+.obsidian/backups/
+.obsidian/plugins/
+.obsidian/themes/
+*.tmp
