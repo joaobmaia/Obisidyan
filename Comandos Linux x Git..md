@@ -8,4 +8,8 @@ git status: Mostrar quais arquivos foram modificados/adicionados
  git -a -> adiciona todos os arquivos trunkados(ja conhecidos)
  git add "Arquivo"
  git commit -m: "Salvar o jogo" e comentar oq vc fez de novo. 
- git commit: Comentar 
+ git commit: Comentar em detalhes o que você mudou nesse novo save. 
+ git config --global safe.directory ' /caminho': git pode confiar naquela pasta. 
+ termux-setup-storage: Pede permissão para acessar armazenamento do Android -> Resulta na criação da pasta storage com links para sua pasta. 
+ Chmod +x: Torna um arquivo executável (x=permite a execução)
+ 
