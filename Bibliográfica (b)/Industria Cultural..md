@@ -25,7 +25,16 @@ Contexto Histórico:
 [Immanuel Kant] x filósofos de [Frankfurt]
 	  -> Principal diferença é que Frankfurt argumenta que o esclarecimento está ligado a necessidade dos seres humanos de dominar a natureza em seu favor.
 
+
+
+
+```ad-Resume
+title: analysis
+
 Analise da Obra:
  A indústria Cultural, conforme concebida por Theodor Adomo e Max Horkheimer na década de 1940, representa uma abor dagem critica à influência da cultura de massa nas sociedades capitalistas. Esses pensadores da Escola de Frankfurt argumen tavam que a cultura popular estava sendo transformada em produtos de consumo em massa, perdendo sua autenticidade e se tornando uma ferramenta de manipulação social. Em vez de promover a criatividade e a reflexão critica, a cultura passou a servir aos interesses do mercado, criando entretenimento padronizado que reforça a conformidade e a alienação
 
 ALVO Para Adorno e Horkheimer, essa massificação cultural substitula as experiências culturais uni cas por produtos padronizados e pré-fabrica-dos, contribuindo para a homogeneização da sociedade. Baseados em teorias manostas. na psicanálise e na sociologia weberiana, eles analisaram como a cultura de massa-cinema rádio, música e, posteriormente, televisão-promovia o que chamavam de amusement, ou seja, entretenimento superficial Esse tipo de diversão servia não apenas para distrair o público, mas também para reduzir tensões socials causadas pelo capi talismo, mantendo as pelisoas conformadas com
+```
+
+
