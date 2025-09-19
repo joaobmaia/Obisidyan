@@ -1,0 +1,6 @@
+# Rotina:
+
+# Tarefas 
+
+# Considerações:
+
