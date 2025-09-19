@@ -1,3 +1,14 @@
+---
+id: 20250918234743
+criado: 2025-09-18 21:00
+atualizado: 2025-09-18 23:47
+tipo: bibliográfica
+assunto: 
+tags: 
+estado: #rascunho
+---
+
+# 📚 Invertebrados x Enchinodermas
 Echinodermas (Tudo do mar) ---> Os caba caem muito pouco 
 - Celomados 
 - Deuterostmados 
