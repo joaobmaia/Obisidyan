@@ -5,3 +5,29 @@
 .obsidian/plugins/
 .obsidian/themes/
 *.tmp
+
+# Pasta de configuração do Obsidian
+.obsidian/
+
+# Pasta de lixeira
+.trash/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de cache
+.cache/
+.venv/
+
+# Arquivos de mídia muito grandes (opcional)
+*.mp4
+*.mov
+*.avi
