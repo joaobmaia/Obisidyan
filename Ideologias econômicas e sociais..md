@@ -1,0 +1,7 @@
+- [[Liberalismo]] 
+- [[Socialismo]]
+- [[Anarquismo]]
+- [[Nacionalismo]]
+- [[Unificação da Itália / Alemanha]]
+- [[Revoluções (1820/1830/ 1848)]]
+- [[Revolução Industrial]]
