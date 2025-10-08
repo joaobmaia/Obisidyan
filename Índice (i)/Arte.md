@@ -1,2 +1,0 @@
-A arte é [[Literatura]] 
-

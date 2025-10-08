@@ -1,4 +1,4 @@
-**Matéria:** [[Biologia]] **Tema:** [Taxonomia]
+**Matéria:** [[🐾Biologia]] **Tema:** [Taxonomia]
 
 ## 🎯 OBJETIVOS DA AULA
 - [ ] Compreender organização e classificação de seres [^1]

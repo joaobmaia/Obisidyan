@@ -5,5 +5,9 @@
   "calendar",
   "periodic-notes",
   "templater-obsidian",
+<<<<<<< HEAD
   "obsidian-excalidraw-plugin"
+=======
+  "highlightr-plugin"
+>>>>>>> 75d13849f62e5b74708311e9367cc7d85271c2c0
 ]

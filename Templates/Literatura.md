@@ -1,3 +1,12 @@
+---
+id: 20251004212955
+criado: 2025-09-19 00:28
+tipo: Apostila
+assunto: "{{Obra}}"
+tags:
+estado:
+---
+
 # [OBRA/AUTOR]
 **Autor:** [Nome] | **Período:** [literário/histórico] | **Gênero:** [gênero literário]
 

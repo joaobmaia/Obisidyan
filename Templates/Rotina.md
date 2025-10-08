@@ -2,30 +2,34 @@
 tags: [routine/weekly, template]
 aliases: [weekly-schedule, semana-organizada]
 ---
-# Weekly Routine: [[2025-W40]] | 2025-10-02 to 2025-10-05
+# Weekly Routine: [[{{date:YYYY-[W]WW}}]] | {{date:YYYY-MM-DD}} to {{date:YYYY-MM-DD}}
 
 ## 🎯 Weekly Goals & Intentions
 *What do I want to accomplish this week?*
-- [x] Study and finish copy book of [[Biologia]]
-- [ ] Finish tasks about [[👨‍🔬 Física.]]
-- [ ] Study Fashion and Organize the school project
-- [x] Study  [[Analysis combinatorial]]
-- [ ] Study [[English]]
-- [x] Study [[Politica]]
-
+- [ ] 
+- [ ] 
+- [ ] 
 
 **Focus for this week:** `___________________________________`
 
 ## 📊 Weekly Overview
 
 ### 🔑 Top 3 Priorities
+<<<<<<< HEAD:Planner/2025-10-02.md
 1. [ ] [[Biologia]]
 2. [ ] [[👨‍🔬 Física.]]
 3. [ ] [[🥻Fashion]]
+=======
+1. 
+2. 
+3. 
+>>>>>>> 75d13849f62e5b74708311e9367cc7d85271c2c0:Templates/Rotina.md
 
+### 🛒 This Week's Errands
+- [ ] 
+- [ ] 
+- [ ] 
 
-
-### 🛒 This Week's 
 ### 👥 People to Contact
 - [ ] 
 - [ ] 
@@ -57,15 +61,14 @@ aliases: [weekly-schedule, semana-organizada]
 **Today's Win:** `___________________________________`
 
 ---
-## 📅 Tuesday - [  ] Tarefa Pendente
+## 📅 Tuesday
 
 ### ☀️ Morning (6:00 AM - 12:00 PM)
 **Wake-up Time:** `:: `
 - [ ] Make bed
 - [ ] Hydrate + vitamins
 - [ ] Meditation (10 min)
-
-[   ] 
+- [ ] Plan day
 
 **Most Important Task:** `___________________________`
 
@@ -232,10 +235,3 @@ aliases: [weekly-schedule, semana-organizada]
 
 ---
 ## 🔗 Related Notes
-- [[Monthly Goals]]
-- [[Meal Planning]]
-- [[Project List]]
-- [[Habit Tracker]]
-
-
-
