@@ -50,4 +50,6 @@
 3) Aumento da Pobreza e Desigualdade. 
 4) Primeira Guerra Mundial. 
 
+Revolução menxefique  / Lenista dos Bolsheviqumk
+
 [^1\]: Início da ideologia da economia universal e acumulo de capital

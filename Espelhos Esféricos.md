@@ -1,6 +1,10 @@
 Estudar os fenômenos da luz. 
 Formulas usada: 1/t.o = 1/d.i + 1/d.
 A = I / ângulo teta = d.i/d.o
+FU Di Do = 1 / fo = 1 / Di = 1/Do 
+- Di -> Distancia do
+- Do -> Distancia do Objeto 
+- Fo -> Distancia do foco. 
 
 Como fazer [reflexão] e a [refração].
 -> Tem um ângulo limite, ou ele vai para um ou para outro 
