@@ -33,15 +33,25 @@ Gini (Desigualdade) - Renda - a 1 a 0
 #### ==Conceitos:== 
 - Conurbação - Não consigo ver a fronteira 
 >	Resultado de expansão. 
+	Facilitada pela Rede Urbana. 
 - Rede urbana - Interligação entre cidades. 
 	>Comunicação, trasporte 
 - Hierarquia urbana - Poder e Influência das cidades. 
 > 	São Paulo, Rio de Janeiro e Brasília  
-- Verticaliização
-- Mega cidades
+- Verticalização
+>	 Estratégias para maior ocupação. 
+- Metrópole 
+> 	População: 1 Milhão
+- Mega cidades  
+> 	Considerada pela população: 10 milhões.
+> 	Ex: SP(só ele no Brasil)
 - Cidades Globais 
+> 	Influencia global. 
 - Megalópole. 
+> 	Acontece pela conurbação entre duas cidades globais. 
+>	Ex: BOS-Wash
 - Especulação Mobiliaria. 
+>  Tema que aborda: Gentrificação. 
 #### No Brasil
 > Início em 1920 com a industrialização. 
 > Impulsionada por questões agrárias. 
