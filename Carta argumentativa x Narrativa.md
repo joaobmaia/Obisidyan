@@ -6,6 +6,8 @@
 		 Primeiramente que as ideias denunciadas por ... 
 		 Posto isso, caro ministro, reitero que ... Sugiro por tanto que..
 
+[[Carta; Desafios Ambientais]]
+
 ### Narrativa. 
  Contar como... 
  - Traz a referencia
